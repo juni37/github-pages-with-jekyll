@@ -1,0 +1,1 @@
+Some quick blog post!
