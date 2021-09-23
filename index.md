@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am not glad that you are here. I'm just stuyding the flow of Github Pages. Why are you looking at this repo lol
